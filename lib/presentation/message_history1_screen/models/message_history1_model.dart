@@ -1,0 +1,1 @@
+class MessageHistory1Model {}
