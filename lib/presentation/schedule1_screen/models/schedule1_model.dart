@@ -1,0 +1,1 @@
+class Schedule1Model {}
